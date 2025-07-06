@@ -28,8 +28,6 @@ In this project, the algorithm is customized to sort the list in **descending or
 - Sorts any list of integers in decreasing order.
 - Includes sample test run and print statements.
 - Well-commented for educational purposes.
-- Lightweight: no external libraries required.
-- Git version control used with multiple commits.
 
 ---
 
