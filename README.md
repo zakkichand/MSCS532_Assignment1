@@ -1,5 +1,5 @@
 
-# MSCS532_Assignment1 - Insertion Sort (Monotonically Decreasing Order)
+# MSCS532_Assignment1 - Insertion Sort 
 
 
 ## 📌 Project Description
