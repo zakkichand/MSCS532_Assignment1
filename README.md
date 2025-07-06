@@ -27,7 +27,6 @@ In this project, the algorithm is customized to sort the list in **descending or
 - Insertion Sort implemented in Python.
 - Sorts any list of integers in decreasing order.
 - Includes sample test run and print statements.
-- Well-commented for educational purposes.
 
 ---
 
